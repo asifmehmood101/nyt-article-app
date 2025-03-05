@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "esnext",
+    "target": "esnext",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "baseUrl": ".",
+    "types": ["jest", "node", "vite/client", "cypress"],
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src", "jest.setup.ts"]
+}
