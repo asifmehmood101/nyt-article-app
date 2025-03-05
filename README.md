@@ -17,21 +17,6 @@ cd nyt-app
 npm install
 ```
 
-### 3️⃣ **Set Up Environment Variables**
-
-Create a `.env` file in the project root and add:
-
-if you dont have key im already adding my key for demo purpose feel free to use it
-please .env file public key is already there
-
-```sh
-VITE_NYT_API_KEY=your-nyt-api-key
-```
-
-Replace `your-nyt-api-key` with your actual **NY Times API Key**.
-
----
-
 ## 🚀 **Run the Development Server**
 
 ```sh
