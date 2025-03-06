@@ -7,7 +7,7 @@ A **React + TypeScript** application that fetches and displays **NY Times Most P
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/your-username/nyt-app.git
+git clone https://github.com/asifmehmood101/nyt-article-app
 cd nyt-app
 ```
 
